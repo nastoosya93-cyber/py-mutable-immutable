@@ -9,14 +9,16 @@ my_favourite_films = [
     "The Good, the Bad and the Ugly",
     "The Matrix",
 ]
+
 profile_info = ("michel", "michel@gmail.com", "12345678")
 marks = {
     "John": 4,
     "Sergio": 3,
 }
+
 collection_of_coins = {1, 2, 25}
 
-sorted_variable = {
+sorted_variables = {
     "mutable": [
         "marks",
         "my_favourite_films",
